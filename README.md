@@ -10,7 +10,7 @@
 </h1>
 
 <h2 align="center" style="color:#ff00ff; font-family:sans-serif; text-shadow: 2px 2px 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;">
-   Experienced Full Stack Web Developer | Wordpress | App Development | UI/UX | Digital Marketing | Backend Development | Social Media | Databases
+ Full Stack Web Development | Wordpress | App Development | UI/UX | Digital Marketing | Backend Development | Social Media | Databases
 </h2>
 
 <br/>
