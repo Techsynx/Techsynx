@@ -44,6 +44,13 @@ I'm a passionate front-end developer with a love for building responsive, user-f
 ### Skills
 Go for my portfolio,   
 <div>
+<h1 align="center" style="color:#00ffcc; font-family:sans-serif; text-shadow: 2px 2px 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #00ffff;">
+  Experienced Full Stack Web Developer
+</h1>
+
+<h2 align="center" style="color:#ff00ff; font-family:sans-serif; text-shadow: 2px 2px 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;">
+  Wordpress | App Development | UI/UX | Digital Marketing | Backend Development | Social Media | Databases
+</h2>
 
  <hr>
 
