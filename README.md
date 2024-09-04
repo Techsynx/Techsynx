@@ -46,10 +46,10 @@ Go for my portfolio
  <hr>
 
 
- <img src="https://github.com/ExHuzaifa/snake.svg/blob/main/github-snake.svg" alt="VS Code" width="100%" height="100%"/>
-
+ <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="VS Code" width="100%" height="100%"/>
+[
  <hr>
 <!---
 ExHuzaifa/ExHuzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
