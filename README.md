@@ -46,8 +46,8 @@ Go for my portfolio
  <hr>
 
 
- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="VS Code" width="100%" height="100%"/>
-[
+ [<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="VS Code" width="100%" height="100%"/>](https://github.com/Techsynx)
+
  <hr>
 <!---
 ExHuzaifa/ExHuzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
