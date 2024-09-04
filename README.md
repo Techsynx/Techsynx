@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5300&lines=T+E+C+H+S+Y+N+X;+TECH+SOUL+OF+YOUR+VISION!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=550&height=70&duration=5300&lines=T+E+C+H+S+Y+N+X;+TECH+SOUL+OF+YOUR+VISION!;" />
 </h1>
 <h3 align="center">Experienced Full Stack Web Developer | Wordpress | App Development  | Ui/UX | Digital Marketing | Backend Development | Social Media  | Databases |</h3>
 
@@ -16,14 +16,14 @@
 </div>
 
  <hr>
-<h2 align="center"> About Techsynx</h2>
+<h1 align="center"> About Techsynx</h1>
 
-<h1 align="center">
+<h3 align="center">
 Techsynx is an innovative IT company dedicated to transforming the digital landscape. With a passion for technology and a commitment to excellence, Techsynx provides cutting-edge IT solutions that empower businesses to thrive in a rapidly evolving world.
 
 As seasoned professionals in WordPress Development, Front-End Website Design, and Back-End Development, we specialize in crafting responsive, user-friendly websites that enhance online presence and drive engagement. Our expertise in WordPress allows us to create custom themes and plugins that perfectly align with your brand's goals, ensuring seamless user experiences and optimized performance.
 
-Let's collaborate to elevate your online presence with innovative, effective, and visually stunning digital solutions. </h1>
+Let's collaborate to elevate your online presence with innovative, effective, and visually stunning digital solutions. </h3>
 
  <hr>
 
