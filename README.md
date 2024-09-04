@@ -5,7 +5,13 @@
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=550&height=70&duration=5300&lines=T+E+C+H+S+Y+N+X;+TECH+SOUL+OF+YOUR+VISION!;" />
 </h1>
-<h3 align="center">Experienced Full Stack Web Developer | Wordpress | App Development  | Ui/UX | Digital Marketing | Backend Development | Social Media  | Databases |</h3>
+<h1 align="center" style="color:#00ffcc; font-family:sans-serif; text-shadow: 2px 2px 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #00ffff;">
+ Our Services
+</h1>
+
+<h2 align="center" style="color:#ff00ff; font-family:sans-serif; text-shadow: 2px 2px 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;">
+   Experienced Full Stack Web Developer | Wordpress | App Development | UI/UX | Digital Marketing | Backend Development | Social Media | Databases
+</h2>
 
 <br/>
  <hr>
