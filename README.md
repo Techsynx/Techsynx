@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5300&lines=T+E+C+H+S+Y+N+x?!;+TECH+SOUL+OF+YOUR+VISION!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5300&lines=T+E+C+H+S+Y+N+X;+TECH+SOUL+OF+YOUR+VISION!;" />
 </h1>
 <h3 align="center">Experienced Full Stack Web Developer | Wordpress | React | Javascript | AWS | Python | MongoDB | MySQl | CSS | Tailwind CSS</h3>
 
@@ -27,7 +27,7 @@
  <hr>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&margin-w=10&margin-h=10&row=1&column=8)](https://github.com/Exhuzaifa)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&margin-w=10&margin-h=10&row=1&column=8)](https://github.com/Techsynx)
 # Hi, I'm huzaifa Malik 👋
 
 Front-end Developer & WordPress Enthusiast
