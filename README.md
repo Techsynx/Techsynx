@@ -39,7 +39,7 @@ Let's collaborate to elevate your online presence with innovative, effective, an
 
  Founder and CEO of Techsynx 
  <hr>
-# About Me
+# About Me.
 
 **Contact:** +92 3358084245  
 **Website:** [Huzaifa Malik](https://www.linkedin.com/in/exhuzaifa-huzaifa-malik/)
