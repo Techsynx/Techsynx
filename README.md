@@ -46,7 +46,7 @@ Let's collaborate to elevate your online presence with innovative, effective, an
 
 
 
- <hr>
+ <hr>.
 
 
  [<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="VS Code" width="100%" height="100%"/>](https://github.com/Techsynx)
