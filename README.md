@@ -34,7 +34,7 @@ Let's collaborate to elevate your online presence with innovative, effective, an
  <hr>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&margin-w=10&margin-h=10&row=1&column=8)](https://github.com/Techsynx)
+
 # Hi, I'm Huzaifa Malik  
 
  Founder and CEO of Techsynx 
