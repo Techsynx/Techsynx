@@ -1,58 +1,28 @@
- <hr>
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=650&height=70&duration=5300&lines=E+X+H+U+Z+A+I+F+A;+BETTER+CALL+OF+KALI!;" />
-</h1>
-<h1 align="center" style="color:#00ffcc; font-family:sans-serif; text-shadow: 2px 2px 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #00ffff;">
- Our Services
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=650&height=70&duration=5300&lines=E+X+H+U+Z+A+I+F+A;+BETTER+CALL+KALI!;" />
 </h1>
 
-<h2 align="center" style="color:#9ACD32; font-family:sans-serif; text-shadow: 2px 2px 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;">
- Full Stack Web Development | Wordpress | App Development | UI/UX | Digital Marketing | Backend Development | Social Media | Databases
-</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=180&section=header&text=⚡%20AUTONOMOUS%20SYSTEMS%20ARCHITECT%20⚡&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Agentic%20Engines%20%7C%20AI%20Pipelines%20%7C%20Linux%20Systems%20%7C%20Full-Stack%20Ecosystems&descFontSize=14&descAlignY=62" width="100%"/>
+</p>
 
-<br/>
- <hr>
+<p align="center">
+  <a href="https://exhuzaifa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-exhuzaifa.vercel.app-0a2e3d?style=for-the-badge&logo=vercel&logoColor=f5d77f&labelColor=061e2a" alt="Portfolio" /></a>
+  <a href="https://pk.linkedin.com/in/huzaifa-malikk"><img src="https://img.shields.io/badge/LinkedIn-Huzaifa_Malik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" /></a>
+  <a href="https://contra.com/huzaifa_malik"><img src="https://img.shields.io/badge/Contra-Huzaifa_Malik-FF5A5F?style=for-the-badge&logo=contra&logoColor=white&labelColor=1a1a1a" alt="Contra" /></a>
+  <a href="https://www.upwork.com/freelancers/~0168104624b5d7f09c"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d6b00" alt="Upwork" /></a>
+  <a href="https://orcid.org/0009-0006-4943-6499"><img src="https://img.shields.io/badge/ORCID-0009--0006--4943--6499-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=5f7e1b" alt="ORCID" /></a>
+  <a href="https://dev.to/exhuzaifa"><img src="https://img.shields.io/badge/DEV.to-@exhuzaifa-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="mailto:exhuzaifa@gmail.com"><img src="https://img.shields.io/badge/Direct_Signal-exhuzaifa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8a1e12" alt="Email" /></a>
+</p>
 
-<div align="center" margin-left="45px">
- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
- <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,c++" /><br>
-</div>
+---
 
- <hr>
-<h1 align="center"> About Techsynx</h1>
+### 📡 `root@kali:~# cat /etc/intelligence/profile.md`
 
-<h3 align="center">
-Techsynx is an innovative IT company dedicated to transforming the digital landscape. With a passion for technology and a commitment to excellence, Techsynx provides cutting-edge IT solutions that empower businesses to thrive in a rapidly evolving world.
-
-As seasoned professionals in WordPress Development, Front-End Website Design, and Back-End Development, we specialize in crafting responsive, user-friendly websites that enhance online presence and drive engagement. Our expertise in WordPress allows us to create custom themes and plugins that perfectly align with your brand's goals, ensuring seamless user experiences and optimized performance.
-
-Let's collaborate to elevate your online presence with innovative, effective, and visually stunning digital solutions. </h3>
-
- <hr>
-
-
-
-# Hi, I'm Huzaifa Malik  
-
- Founder and CEO of Techsynx 
- <hr>
-# About Me.
-
-**Contact:** +92 3358084245  
-**Linkedin:** [Huzaifa Malik](https://www.linkedin.com/in/exhuzaifa-huzaifa-malik/)
-
-
-
- <hr>.
-
-
- [<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="VS Code" width="100%" height="100%"/>](https://github.com/Techsynx)
-
- <hr>
-<!---
-ExHuzaifa/ExHuzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
+```zsh
+> IDENTITY   : Huzaifa Malik (Muhammad Huzaifa Tabassum)
+> ALIAS      : exhuzaifa // kali
+> OBJECTIVE  : Deploy self-healing agentic swarms, zero-latency workflows & impenetrable systems
+> SPECIALTY  : Multi-Agent Orchestration, Neural Search, Autonomous Publishing, Kernel/OS Automation
+> STATUS     : 🟢 SYSTEM ONLINE // ALL AGENTS ACTIVE
