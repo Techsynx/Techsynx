@@ -26,3 +26,78 @@
 > OBJECTIVE  : Deploy autonomous agentic swarms, zero-latency workflows & resilient systems
 > SPECIALTY  : Multi-Agent Orchestration, Neural Search, Autonomous Publishing, Kernel/OS Automation
 > STATUS     : ACTIVE // ALL AGENTS ONLINE
+```
+
+```
+ +--[ kali@shadow-grid ]--[ ~ ]
+ +-- $ initialize_core_subsystems --verbose
+   +-- [OK] Neural Agent Pipelines (Gemini 3.7 / Flash Fleet + Groq OSS 120B)
+   +-- [OK] CI/CD Automation Matrix (GitHub Actions + Headless Linux Daemons)
+   +-- [OK] Data Ingestion & Knowledge Graph Engines (PostgreSQL / Supabase / Redis)
+   +-- [OK] Edge Infrastructure & Serverless Micro-Deployments (Vercel / Cloud / Hostinger)
+```
+
+---
+
+### TECH STACK & INFRASTRUCTURE
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,nodejs,ts,js,python,postgres,supabase,redis,docker,githubactions,git,vercel,html,css,tailwind,playwright" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center"><b>AI & Agentic Systems</b></h4>
+      <ul>
+        <li><b>LLM Fleets:</b> Gemini 3.7 / 3.6 Flash, Groq OSS, DeepSeek</li>
+        <li><b>Agent Orchestration:</b> Multi-Agent Chains, Dynamic Context Slicing</li>
+        <li><b>Protocol:</b> Model Context Protocol (MCP), Tool Use</li>
+        <li><b>Verification:</b> Automated Fact-Checkers, E-E-A-T Engines</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center"><b>Workflows & Cloud</b></h4>
+      <ul>
+        <li><b>CI/CD:</b> GitHub Actions, Scheduled Cron Daemons</li>
+        <li><b>OS:</b> Kali Linux, Ubuntu Server, Debian</li>
+        <li><b>Deployment:</b> Automated SCP/SSH Deployers, Vercel Edge</li>
+        <li><b>Testing:</b> Playwright Headless Automation, Lint Suites</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center"><b>Backend & Data</b></h4>
+      <ul>
+        <li><b>Languages:</b> JavaScript (ESNext), TypeScript, Python, Bash</li>
+        <li><b>Databases:</b> PostgreSQL, Supabase, Redis Key-Value</li>
+        <li><b>Architecture:</b> REST APIs, Webhooks, Dynamic JSON Graphs</li>
+        <li><b>SEO Core:</b> Schema.org JSON-LD, RSS 2.0, XML Engines</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### TELEMETRY & ACTIVITY METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Techsynx&show_icons=true&theme=radical&hide_border=true&bg_color=061e2a&title_color=f5d77f&icon_color=00d2ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techsynx&theme=radical&hide_border=true&background=061e2a&ring=f5d77f&fire=00d2ff&currStreakLabel=f5d77f&sideLabels=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techsynx&layout=compact&theme=radical&hide_border=true&bg_color=061e2a&title_color=f5d77f&text_color=ffffff" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"In the silence of the terminal, autonomous engines build what humans take years to script."</i>
+</p>
+
+<hr>
+
+[<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="VS Code" width="100%" height="100%"/>](https://github.com/Techsynx)
+
+<hr>
