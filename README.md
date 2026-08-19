@@ -27,9 +27,8 @@
 > SPECIALTY  : Multi-Agent Orchestration, Neural Search, Autonomous Publishing, Kernel/OS Automation
 > STATUS     : ACTIVE // ALL AGENTS ONLINE
 ```
-
+###  +--[ kali@shadow-grid ]--[ ~ ]
 ```
- +--[ kali@shadow-grid ]--[ ~ ]
  +-- $ initialize_core_subsystems --verbose
    +-- [OK] Neural Agent Pipelines (Gemini 3.7 / Flash Fleet + Groq OSS 120B)
    +-- [OK] CI/CD Automation Matrix (GitHub Actions + Headless Linux Daemons)
@@ -39,11 +38,12 @@
 
 ---
 
-### TECH STACK & INFRASTRUCTURE
+<h1  align="center">TECH STACK & INFRASTRUCTURE</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,nodejs,ts,js,python,postgres,supabase,redis,docker,githubactions,git,vercel,html,css,tailwind,playwright" />
+  <img   align="center" src="https://skillicons.dev/icons?i=linux,kali,bash,nodejs,ts,js,python,postgres,supabase,redis,docker,githubactions,git,vercel,html,css,tailwind,aws,github,devto,gitlab,git,instagram,pycharm,vscode,threejs,wordpress,vue,tensorflow,sklearn" />
 </p>
+
 
 <table align="center" width="100%">
   <tr>
@@ -65,7 +65,7 @@
         <li><b>Testing:</b> Playwright Headless Automation, Lint Suites</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="center">
       <h4 align="center"><b>Backend & Data</b></h4>
       <ul>
         <li><b>Languages:</b> JavaScript (ESNext), TypeScript, Python, Bash</li>
@@ -79,16 +79,12 @@
 
 ---
 
-### TELEMETRY & ACTIVITY METRICS
+<h1  align="center">TELEMETRY & ACTIVITY METRICS</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techsynx&show_icons=true&theme=radical&hide_border=true&bg_color=061e2a&title_color=f5d77f&icon_color=00d2ff&text_color=ffffff" width="48%" />
+<p  align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techsynx&theme=radical&hide_border=true&background=061e2a&ring=f5d77f&fire=00d2ff&currStreakLabel=f5d77f&sideLabels=ffffff" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techsynx&layout=compact&theme=radical&hide_border=true&bg_color=061e2a&title_color=f5d77f&text_color=ffffff" width="60%" />
-</p>
 
 ---
 
