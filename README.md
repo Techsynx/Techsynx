@@ -89,7 +89,7 @@
 ---
 
 <p align="center">
-  <i>"In the silence of the terminal, autonomous engines build what humans take years to script."</i>
+  <i>"he who lives trusting , dies betrayed"</i>
 </p>
 
 <hr>
